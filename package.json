@@ -1,10 +1,10 @@
 {
-    "name": "@nareshr/remarkjs-themes",
-    "version": "1.0.2",
+    "name": "@wavemaker.com/wm-remarkjs-theme",
+    "version": "1.0.0",
     "description": "Wavemaker theming and templating base for remarkjs.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rnaresh/remark-custom-theme.git"
+        "url": "https://github.com/wavemaker/wm-remarkjs-theme.git"
     },
     "keywords": [
         "remarkjs",
@@ -14,9 +14,9 @@
     "author": "",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/rnaresh/remark-custom-theme/issues"
+        "url": "https://github.com/wavemaker/wm-remarkjs-theme/issues"
     },
-    "homepage": "https://github.com/rnaresh/remark-custom-theme",
+    "homepage": "https://github.com/wavemaker/wm-remarkjs-theme",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
