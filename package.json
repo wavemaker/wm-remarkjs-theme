@@ -29,7 +29,7 @@
         "grunt-contrib-clean": "2.0.0",
         "grunt-contrib-copy": "1.0.0",
         "grunt-run": "^0.8.1",
-        "markdown-to-slides": "1.0.5",
+        "markdown-to-slides": "github:wavemaker/markdown-to-slides",
         "matchdep": "2.0.0",
         "optimist": "^0.6.1",
         "remark": "11.0.2"
